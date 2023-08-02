@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="dial">#4EBF2C</color>
+    <color name="message">#D6B024</color>
+    <color name="edit">#465FCD</color>
+    <color name="call">#20CD29</color>
+    <color name="back">#2196F3</color>
+    <color name="picBack">#145F9B</color>
+    <color name="background">#EDF5E1</color>
+    <color name="secondColor">#05386B</color>
+</resources>

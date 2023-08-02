@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pet Journal</string>
+    <string name="entry_text">Entry text</string>
+    <string name="saved">New journal entry saved successfully</string>
+    <string name="editJournal">Journal details updated successfully</string>
+    <string name="petSaved">Pet details saved successfully</string>
+    <string name="appointment">Appointment</string>
+    <string name="medication">Medication</string>
+    <string name="selfie">Selfie</string>
+    <string name="vetvisit">Vet visit</string>
+    <string name="pet_name">Pet name</string>
+</resources>

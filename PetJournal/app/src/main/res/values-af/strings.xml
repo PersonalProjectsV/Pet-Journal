@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Troeteldierjoernaal</string>
+    <string name="entry_text">Entry text</string>
+    <string name="saved">Nuwe joernaalinskrywing suksesvol gestoor</string>
+    <string name="editJournal">" Tydskrifbesonderhede is suksesvol opgedateer"</string>
+    <string name="petSaved">Troeteldierbesonderhede is suksesvol gestoo</string>
+    <string name="appointment">" Afspraak"</string>
+    <string name="medication">" Medikasie"</string>
+    <string name="selfie">Selfie</string>
+    <string name="vetvisit">" Veeartsbesoek"</string>
+    <string name="pet_name">Troeteldier naam</string>
+</resources>
